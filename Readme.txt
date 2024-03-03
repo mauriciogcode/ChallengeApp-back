@@ -23,7 +23,7 @@ npm install
 Instalar los paquetes nuggets requeridos. Y compilar
 
 
-5. La base de datos usada se denomino Challenge. La base y la tabla usada puede ser generada por el siguiente script:
+5. La base de datos utilizada es MySql. La base en si se denomino Challenge y la tabla bulkuploadtable. La base y la tabla usada puede ser generada por el siguiente script:
 
 CREATE DATABASE `challenge`
 
