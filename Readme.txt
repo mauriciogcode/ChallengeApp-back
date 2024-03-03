@@ -54,6 +54,7 @@ En .net se puede usar cli o visual studio. Al ejecutar la app del back se desple
 
 - En caso de errores durante la instalación de las dependencias npm, puede intentar utilizar el siguiente comando para resolver problemas relacionados con dependencias obsoletas:
 css
+- La aplicacion no recibe archivos repetidos o ya cargados previamente. Realiza una copia de los mismos en UploadFileFolder en directorio de .net para verificarlos.
 
 npm install --legacy-peers-deps
 
